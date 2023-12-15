@@ -205,8 +205,8 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("https://drive.google.com/file/d/1T0tTROu8Jv6uMX2WniiXFSZlnILZXmAd/view?usp=sharing") no-repeat center;
-    /* background-image: url("background2.jpg") no-repeat center; */
+    background: url("background.jpg") no-repeat center;
+    /* background-image: url("https://drive.google.com/file/d/1T0tTROu8Jv6uMX2WniiXFSZlnILZXmAd/view?usp=sharing") no-repeat center; */
     color: rgb(64, 197, 217);
     min-height: 500px;
     background-size: cover;
